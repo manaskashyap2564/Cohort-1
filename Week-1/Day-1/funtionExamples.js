@@ -72,7 +72,7 @@
 //     for(var i = 1; i<=star;i++ ){
 //         console.log(stars)
 //         stars = stars + "* "
-//         star--
+//         star--;
 //     }
-//     row++
+//     row++;
 // }
