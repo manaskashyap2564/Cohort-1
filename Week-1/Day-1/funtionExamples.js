@@ -70,7 +70,7 @@
 //     var stars = ""
 //     var star = 5;
 //     for(var i = 1; i<=star;i++ ){
-//         console.log(stars)
+//         console.log(stars);
 //         stars = stars + "* "
 //         star--;
 //     }
