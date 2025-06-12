@@ -3,8 +3,20 @@
 
 
 ))))))))))))))Day-1))))))))))))))
-1. primitives.js
-2. functionExamples.js
+primitives
+1.variables.js
+2.conditionals.js
+3.operators.js
+4.loops.js
+5.functions.js
+
+functionExamples
+1.arithmeticOperations.js
+2.celsiusToFahrenheit.js
+3.createPattern.js
+4.fibonacci.js
+5.isEven.js
+6.randomNo.js
 
 ))))))))))))))Day-2))))))))))))))
 1.
